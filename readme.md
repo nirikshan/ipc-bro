@@ -1851,10 +1851,7 @@ client.on("connected", () => {
 
 ## 📊 Pending Works
 
-1. **Use MessagePack** serialization (40-60% faster)
-2. **Enable connection pooling** for high throughput
-3. Build the way to **Batch multiple calls**
-4. **Cache frequently-accessed data**
+1. **Cache frequently-accessed data**
 
 ---
 
